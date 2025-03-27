@@ -40,7 +40,7 @@ export default function Batsmen(){
     }
     return(
         <div style={playerStyle}>
-            <h3>Player : Bangla Batsman</h3>
+            <h3>Player : Indian Batsmen</h3>
             <p><small>Six : {sixes}</small></p>
             <p><small>Four : {four}</small></p>
             <p><small>Single : {single}</small></p>
